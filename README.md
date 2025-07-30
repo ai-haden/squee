@@ -1,6 +1,6 @@
 ## Squee
 
-Berkeley's squirrel robot, designed and built in 1952.
+Berkeley's squirrel robot, designed and built in 1951.
 
 ![image](/images/natural-squee.jpg)
 
